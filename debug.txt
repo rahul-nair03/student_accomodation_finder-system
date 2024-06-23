@@ -1,0 +1,15 @@
+                Hostel_Name  ... Hostel Rating
+0       Zenith Youth Hostel  ...          five
+1    Aashiyana Grand hostel  ...          five
+2                   Salwood  ...          five
+3                     Niwas  ...          five
+4            People's tree   ...          five
+..                      ...  ...           ...
+78  Woodstock girls hostel   ...          five
+79  Woodstock girls hostel   ...          five
+80  Woodstock girls hostel   ...          five
+81  Woodstock girls hostel   ...           one
+82  Woodstock girls hostel   ...           two
+
+[83 rows x 6 columns]
+{'Unik boys hostel ', 'Pearl Residency ', 'Parivar Hostel', 'Zenith Youth Hostel', 'Woodstock girls hostel '}
